@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Shreyas-h-s
+- 👋 Hi, I’m Shreyas-h-s
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BE in CSE...
 - 💞️ I’m looking to collaborate on amazing topic of code that amaze me! ...
-- 📫 How to reach me ...? 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Engineers love to learn new thing..
+  
 
 <!---
 Shreyas-h-s/Shreyas-h-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
